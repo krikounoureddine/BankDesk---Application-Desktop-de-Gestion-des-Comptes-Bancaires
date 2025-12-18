@@ -13,127 +13,144 @@
 
 ---
 
-## 🔎 Aperçu
+# 🏦 BankDesk — Application Desktop de Gestion des Comptes Bancaires
 
-**BankDesk** est une application desktop (Java) dédiée à la gestion bancaire (comptes, dépôts, retraits, virements, historique), connectée à un backend **Java EE** exposant des **Web Services SOAP**. Un **middleware** orchestre la communication et assure la cohérence, la validation et la modularité entre le client desktop et les services bancaires.
-
-**Démo / Page du projet :**  
-https://krikounoureddine.github.io/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/
+> **BankDesk** est une application **desktop Java** connectée à un **backend Java EE** via des **Web Services**.  
+Elle permet la gestion complète des comptes bancaires, des opérations financières et des utilisateurs, au sein d’une **architecture distribuée orientée services (SOA)**.
 
 ---
 
-## 🏛️ Architecture (schéma)
+## 🚀 Présentation du projet
 
-```mermaid
-flowchart LR
-  A[Client Desktop - JavaFX/Swing] -->|SOAP/XML| B[Middleware (Adapter)]
-  B -->|SOAP/XML| C[Java EE - Web Services (EJB)]
-  C --> D[(Base de Données)]
-  C --> E[Logique métier (EJB)]
-  subgraph infra
-    D
-    E
-  end
+**BankDesk** a été conçu pour illustrer la mise en œuvre d’une **application client–serveur robuste**, reposant sur un **middleware** assurant la communication entre :
 
+- une **interface desktop Java** (JavaFX / Swing)
+- un **backend Java EE** centralisé exposant des services métiers
+
+L’objectif principal est de garantir :
+- la **cohérence des données**
+- la **sécurité des opérations**
+- la **modularité et la scalabilité** du système bancaire
+
+---
+
+## ✨ Fonctionnalités principales
+
+### 👤 Gestion des utilisateurs
+- Création de comptes utilisateurs
+- Authentification sécurisée
+- Gestion des rôles et accès
+
+### 💳 Gestion des comptes bancaires
+- Consultation des comptes
+- Création et mise à jour des comptes
+- Visualisation des soldes et historiques
+
+### 💸 Opérations financières
+- Dépôts
+- Retraits
+- Virements entre comptes
+- Validation côté serveur via services métiers
+
+### 🔗 Communication client–serveur
+- Appels via **Web Services (SOAP / REST)**
+- Middleware assurant l’interopérabilité
+- Backend orienté services (**SOA**)
+
+---
+
+## 🧠 Architecture & concepts techniques
+
+- Architecture **distribuée**
+- Séparation **Frontend / Backend**
+- Middleware pour la communication
+- Backend **Java EE** orienté services
+- Design **modulaire et scalable**
+
+---
+
+## 🛠️ Technologies & outils
+
+- **Java SE**
+- **Application Desktop Java (JavaFX / Swing)**
+- **Java EE**
+  - EJB
+  - Servlets
+  - JSP
+- **Web Services**
+  - SOAP
+  - REST
+- **Middleware**
+- **Architecture SOA**
+- **Sécurité & authentification**
+- **Communication client–serveur**
+
+---
+
+## 📦 Installation
+
+### Prérequis
+- Java JDK **8 ou supérieur**
+- Serveur d’applications Java EE (GlassFish / WildFly / Tomcat selon configuration)
+- IDE Java (**Eclipse recommandé**)
+
+### Étapes
+```bash
+# Cloner le dépôt
+git clone https://github.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires.git
+
+1. Importer le projet dans Eclipse  
+2. Configurer le serveur Java EE  
+3. Déployer le backend (Web Services)  
+4. Lancer l’application desktop  
 ```
 
-🧩 Fonctionnalités principales
+---
 
-🔐 Authentification sécurisée des utilisateurs
+## ▶️ Utilisation
 
-👤 Gestion des comptes utilisateurs (création, suppression, rôles)
+1. Lancer le backend Java EE  
+2. Démarrer l’application desktop **BankDesk**  
+3. S’authentifier avec un compte utilisateur  
+4. Accéder aux comptes bancaires  
+5. Effectuer des opérations financières en temps réel  
 
-💳 Consultation des comptes, soldes et détails
+> Toutes les opérations sont validées côté serveur afin de garantir la **cohérence** et la **sécurité** des données.
 
-➕ Dépôts / ➖ Retraits / 🔄 Virements inter-comptes
+---
 
-🧾 Historique et export des transactions
+## 🤝 Contribution
 
-🌐 Communication via Web Services SOAP (WSDL / XML)
+Les contributions sont les bienvenues :
 
-🧱 Middleware pour orchestration, validation et transformation des messages
+1. Forker le projet  
+2. Créer une branche (`feature/amelioration`)  
+3. Committer vos changements  
+4. Ouvrir une Pull Request  
 
-🛠️ Technologies & composants
+---
 
-Client (Desktop) : Java, JavaFX ou Swing, MVC
+## 📜 Licence
 
-Middleware / Adapter : Java (JAX-WS client / logique de mapping)
+Ce projet est sous licence **MIT**.  
+Vous êtes libre de l’utiliser, le modifier et le distribuer.
 
-Backend : Java EE (EJB, JPA), Servlets/JSP (optionnel), Web Services SOAP (JAX-WS)
+---
 
-Persistance : JPA (Hibernate) + base relationnelle (MySQL / PostgreSQL)
+## 📫 Contact
 
-Messages : XML / SOAP / WSDL
+👤 **Noureddine Krikou**  
+💼 Développeur Java / Full Stack  
+🌐 GitHub : https://github.com/krikounoureddine  
 
-Outils : Maven/Gradle, GlassFish/WildFly/Payara, Git
+---
 
-📁 Structure proposée du dépôt
+## ⭐ Pourquoi BankDesk ?
 
-/BankDesk
-├─ /backend
-│  ├─ pom.xml
-│  ├─ src/main/java/...
-│  ├─ src/main/resources/
-│  └─ web/ (WSDL, xsd)
-├─ /middleware
-│  ├─ pom.xml
-│  └─ src/main/java/...
-├─ /desktop
-│  ├─ pom.xml
-│  └─ src/main/java/...
-├─ docs/
-│  └─ screenshots/
-├─ sql/
-│  └─ schema.sql
-└─ README.md
+✔ Mise en œuvre concrète de **Java EE et Web Services**  
+✔ Maîtrise des **architectures distribuées et middleware**  
+✔ Gestion sécurisée des **opérations financières**  
+✔ Projet orienté **backend, services et systèmes d’information**
 
-⚙️ Installation & Déploiement (guide pas-à-pas)
-
-Prérequis
-
-JDK 11+
-
-Maven 3.6+ (ou Gradle)
-
-Serveur Java EE : WildFly / GlassFish / Payara
-
-MySQL / PostgreSQL
-
-Git
-
-🖼️ Ajouter des captures et GIFs (recommandé)
-
-Pour rendre la page GitHub plus attractive, ajoute dans docs/screenshots/ :
-
-login.png — écran de connexion
-
-dashboard.png — aperçu tableau de bord
-
-transfer.gif — animation d’un virement
-
-### Aperçu UI
-
-![Login](docs/screenshots/login.png)
-![Dashboard](docs/screenshots/dashboard.png)
-
-✅ Bonnes pratiques & suggestions d'amélioration
-
-Ajouter HTTPS & certificats pour sécuriser les services SOAP
-
-Implémenter authentification JWT si tu exposes aussi REST
-
-Ajouter tests unitaires (JUnit) et tests d’intégration (Arquillian ou équivalent)
-
-Ajouter CI (GitHub Actions) pour build & déploy automatique
-
-🧾 Licence & attribution
-
-Ce projet est fourni à des fins pédagogiques. Pour toute réutilisation commerciale ou redistribution, merci de me contacter.
-
-📬 Contact
-
-Noureddine KRIKOU — Développeur Fullstack
-GitHub: https://github.com/krikounoureddine
-
-Page projet: https://krikounoureddine.github.io/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/
+> ⭐ *N’hésitez pas à laisser une étoile si le projet vous plaît !*
 
