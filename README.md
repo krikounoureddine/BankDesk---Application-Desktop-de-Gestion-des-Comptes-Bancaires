@@ -13,8 +13,6 @@
 
 ---
 
-# 🏦 BankDesk — Application Desktop de Gestion des Comptes Bancaires
-
 > **BankDesk** est une application **desktop Java** connectée à un **backend Java EE** via des **Web Services**.  
 Elle permet la gestion complète des comptes bancaires, des opérations financières et des utilisateurs, au sein d’une **architecture distribuée orientée services (SOA)**.
 
