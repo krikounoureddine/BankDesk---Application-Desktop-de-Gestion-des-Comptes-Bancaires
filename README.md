@@ -34,6 +34,9 @@ flowchart LR
     D
     E
   end
+
+```
+
 🧩 Fonctionnalités principales
 
 🔐 Authentification sécurisée des utilisateurs
@@ -84,35 +87,6 @@ Outils : Maven/Gradle, GlassFish/WildFly/Payara, Git
 │  └─ schema.sql
 └─ README.md
 
-🔁 Exemple de message SOAP (Requête dépôt)
-
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
-                  xmlns:bank="http://services.bankdesk/">
-   <soapenv:Header/>
-   <soapenv:Body>
-      <bank:depositRequest>
-         <accountId>12345</accountId>
-         <amount>500.00</amount>
-         <currency>EUR</currency>
-      </bank:depositRequest>
-   </soapenv:Body>
-</soapenv:Envelope>
-
-Exemple de réponse SOAP
-
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
-                  xmlns:bank="http://services.bankdesk/">
-   <soapenv:Body>
-      <bank:depositResponse>
-         <status>SUCCESS</status>
-         <transactionId>TX-20231101-0001</transactionId>
-         <newBalance>1500.00</newBalance>
-      </bank:depositResponse>
-   </soapenv:Body>
-</soapenv:Envelope>
-
-
-
 ⚙️ Installation & Déploiement (guide pas-à-pas)
 
 Prérequis
@@ -136,6 +110,7 @@ login.png — écran de connexion
 dashboard.png — aperçu tableau de bord
 
 transfer.gif — animation d’un virement
+
 ### Aperçu UI
 
 ![Login](docs/screenshots/login.png)
