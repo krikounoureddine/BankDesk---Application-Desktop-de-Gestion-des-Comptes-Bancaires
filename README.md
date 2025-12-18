@@ -33,10 +33,27 @@ L’objectif principal est de garantir :
 ---
 ##🎯 Démonstration du Système
 
-<div align="center"> <table> 
-<tr> <td align="center"><strong>Interface Dashboard</strong></td> <td align="center"><strong>Gestion des Comptes</strong></td> </tr>
-  <tr> <td><img src="screenshots/dashboard.png" width="400" alt="Dashboard BankDesk"></td> <td><img src="screenshots/account-management.png" width="400" alt="Gestion des comptes"></td> </tr>
-  <tr> <td align="center"><strong>Opérations Bancaires</strong></td> <td align="center"><strong>Architecture SOA</strong></td> </tr> <tr> <td><img src="screenshots/transactions.png" width="400" alt="Opérations financières"></td> <td><img src="screenshots/soa-architecture.png" width="400" alt="Architecture SOA"></td> </tr> </table> </div>
+<div align="center"> 
+  <table> 
+  <tr> 
+    <td align="center"><strong>Interface Dashboard</strong></td> 
+    <td align="center"><strong>Gestion des Comptes</strong></td> 
+  </tr>
+  <tr> 
+    <td><img src="screenshots/dashboard.png" width="400" alt="Dashboard BankDesk"></td>
+    <td><img src="screenshots/account-management.png" width="400" alt="Gestion des comptes"></td> 
+</tr>
+<tr> 
+    <td align="center"><strong>Opérations Bancaires</strong></td> 
+    <td align="center"><strong>Architecture SOA</strong></td> 
+  </tr> 
+  <tr> 
+    <td><img src="screenshots/transactions.png" width="400" alt="Opérations financières"></td> 
+    <td><img src="screenshots/soa-architecture.png" width="400" alt="Architecture SOA"></td> 
+  </tr> 
+ </table> 
+</div>
+
 ---
 
 ## ✨ Fonctionnalités principales
