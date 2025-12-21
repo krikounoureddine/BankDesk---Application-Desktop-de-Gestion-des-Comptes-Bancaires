@@ -62,26 +62,6 @@ L’objectif principal est de garantir :
 
 ---
 
-## 🎨 **Démonstration de l'Interface**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Vue d'Ensemble</strong><br><img src="screenshots/dashboard-overview.png" width="300" height="200" alt="Dashboard BankDesk" style="object-fit: cover;"></td>
-      <td align="center"><strong>Dashboard Administrateur</strong><br><img src="screenshots/dashboard2.png" width="300" height="200" alt="Dashboard détaillé" style="object-fit: cover;"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Barre de Navigation</strong><br><img src="screenshots/sidebar-navigation.png" width="300" height="150" alt="Navigation principale" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
-      <td align="center"><strong>Statistiques Centrales</strong><br><img src="screenshots/financial-stats.png" width="300" height="150" alt="Statistiques financières" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Tableau des Transactions</strong><br><img src="screenshots/recent-activity.png" width="300" height="150" alt="Activité récente" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
-      <td align="center"><strong>Panneau d'Actions</strong><br><img src="screenshots/quick-actions.png" width="300" height="150" alt="Actions rapides" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
-    </tr>
-  </table>
-</div>
-
----
 
 
 ---
