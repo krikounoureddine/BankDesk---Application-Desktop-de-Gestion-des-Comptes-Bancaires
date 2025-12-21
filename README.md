@@ -4,10 +4,7 @@
 
 <div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
 
-<h1 style="margin-top: 2rem;">🏦 BankDesk</h1>
-<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires 
-🎨 Option 5 :  Arrière-plan complet de la page
-</p>
+<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</p>
 </div>
 
 <br>
@@ -16,7 +13,7 @@
     background: linear-gradient(90deg, #0a192f 0%, #1a237e 100%);
     color: white;
     padding: 2rem;
-    border-radius: 10px 10px 0 0;
+    border-radius: 10px;
     position: relative;
     overflow: hidden;
 ">
@@ -25,34 +22,19 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img alt="Java EE" src="https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white">
     <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+    <img alt="Status" src="https://img.shields.io/badge/Status-Prototype-blue?style=for-the-badge" />
+    <img alt="Platform" src="https://img.shields.io/badge/Platform-Desktop%20%7C%20Server-green?style=for-the-badge" />
 </div>
 
 
 <h1 style="margin-top: 2rem;">🏦 BankDesk</h1>
-<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires 
-🎨 Option 6 : En-tête avec badges intégrés
+<p style="font-size: 1.2rem; opacity: 0.9;">> **BankDesk** est une application **desktop Java** connectée à un **backend Java EE** via des **Web Services**.  
+Elle permet la gestion complète des comptes bancaires, des opérations financières et des utilisateurs, au sein d’une **architecture distribuée orientée services (SOA)**.
 </p>
 
 </div>
 
-<br>
-
-<p align="center">
-  <h1 align="center">🏦 BankDesk</h1>
-  <p align="center"><em>Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</em></p>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/badge/License-Educational-lightgrey?style=for-the-badge" />
-  <img alt="Status" src="https://img.shields.io/badge/Status-Prototype-blue?style=for-the-badge" />
-  <img alt="Platform" src="https://img.shields.io/badge/Platform-Desktop%20%7C%20Server-green?style=for-the-badge" />
-</p>
-
 </body>
----
-
-> **BankDesk** est une application **desktop Java** connectée à un **backend Java EE** via des **Web Services**.  
-Elle permet la gestion complète des comptes bancaires, des opérations financières et des utilisateurs, au sein d’une **architecture distribuée orientée services (SOA)**.
 
 ---
 
@@ -61,8 +43,9 @@ Elle permet la gestion complète des comptes bancaires, des opérations financi�
     border-left: 4px solid #1a237e;
     padding: 1.5rem;
     margin: 2rem 0;
-    border-radius: 0 8px 8px 0;
-">
+    border-radius: 0 8px 8px 0;">
+
+</div>
 
 ## 📖 Table des Matières
 
@@ -78,7 +61,7 @@ Elle permet la gestion complète des comptes bancaires, des opérations financi�
 - [▶️ Utilisation](#️-utilisation)
 - [🤝 Contribution](#-contribution)
 
-</div>
+
 
 ---
 
