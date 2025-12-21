@@ -4,9 +4,9 @@
 <div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
 
 # 🏦 BankDesk
-Contenu complet de votre README ici...
 
-
+</div>
+</body>
 
 <p align="center">
   <h1 align="center">🏦 BankDesk</h1>
@@ -176,7 +176,3 @@ Vous êtes libre de l’utiliser, le modifier et le distribuer.
 ✔ Projet orienté **backend, services et systèmes d’information**
 
 > ⭐ *N’hésitez pas à laisser une étoile si le projet vous plaît !*
-
-</div>
-
-</body>
