@@ -51,6 +51,8 @@ L’objectif principal est de garantir :
 | ![Navigation](screenshots/sidebar-navigation.png) | ![Statistiques](screenshots/financial-stats.png) | ![Transactions](screenshots/recent-activity.png) |
 | *Menu principal avec profil utilisateur* | *KPIs financiers et graphiques* | *Historique des opérations bancaires* |
 
+<br>
+
 | Panneau d'Actions | Monitoring Backend |
 |-------------------|-------------------|
 | ![Actions rapides](screenshots/quick-actions.png) | ![Services backend](screenshots/backend-status.png) |
