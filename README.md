@@ -51,19 +51,21 @@
 
 ## 📖 Table des Matières
 
-### 📚 Navigation Principale
-- [📋 Présentation du Projet](#-présentation-du-projet)
-- [🎨 Démonstration de l'Interface](#-Démonstration-de-l'Interface)
-- [✨ Fonctionnalités](#-Fonctionnalités-principales)
-- [🏗️ Architecture](#️-Architecture-&-concepts-techniques)
+### 🚀 **Découverte**
+- [🎯 Présentation du Projet](#-présentation-du-projet)
+- [🎨 Démonstration de l'Interface](#-démonstration-de-linterface)
+- [✨ Fonctionnalités Principales](#-fonctionnalités-principales)
 
-### 🔧 Développement
-- [🛠️ Technologies](#️-technologies)
+### 🔧 **Architecture & Développement**
+- [🏗️ Architecture & Concepts Techniques](#️-architecture--concepts-techniques)
+- [🛠️ Technologies & Outils](#️-technologies--outils)
 - [📦 Installation](#-installation)
 - [▶️ Utilisation](#️-utilisation)
-- [🤝 Contribution](#-contribution)
 
-
+### 🤝 **Communauté**
+- [💡 Contribution](#-contribution)
+- [📜 Licence](#-licence)
+- [📞 Contact](#-contact)
 
 ---
 
@@ -85,8 +87,8 @@ L’objectif principal est de garantir :
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Vue d'Ensemble</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard-overview.png" width="280" height="180" alt="Dashboard" style="object-fit: cover; border-radius: 5px;"></td>
-      <td align="center"><strong>Dashboard Admin</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard2.png" width="280" height="180" alt="Dashboard Admin" style="object-fit: cover; border-radius: 5px;"></td>
+      <td align="center"><strong>Vue d'Ensemble</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard-overview.png" width="300" height="200" alt="Dashboard" style="object-fit: cover; border-radius: 5px;"></td>
+      <td align="center"><strong>Dashboard Admin</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard2.png" width="300" height="200" alt="Dashboard Admin" style="object-fit: cover; border-radius: 5px;"></td>
       <td align="center"><strong>Barre de Navigation<</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/sidebar-navigation.png" width="280" height="180" alt="Barre de Navigation<" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
         <td align="center"><strong>Statistiques</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/financial-stats.png" width="280" height="180" alt="Statistiques" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
     </tr>
