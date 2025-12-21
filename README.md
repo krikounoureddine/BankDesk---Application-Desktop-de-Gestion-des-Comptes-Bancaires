@@ -102,7 +102,19 @@ L’objectif principal est de garantir :
 </div>
 
 ---
-
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+    <div style="text-align: center;">
+      <div style="font-weight: bold; margin-bottom: 8px;">Dashboard</div>
+      <img src="screenshots/dashboard-overview.png" width="100%" style="max-height: 150px; object-fit: contain; background: #f8f9fa; border-radius: 5px;">
+    </div>
+    <div style="text-align: center;">
+      <div style="font-weight: bold; margin-bottom: 8px;">Navigation</div>
+      <img src="screenshots/sidebar-navigation.png" width="100%" style="max-height: 150px; object-fit: contain; background: #f8f9fa; border-radius: 5px;">
+    </div>
+    <!-- Ajoutez d'autres divs de la même manière -->
+  </div>
+</div>
 ---
 
 ## ✨ Fonctionnalités principales
