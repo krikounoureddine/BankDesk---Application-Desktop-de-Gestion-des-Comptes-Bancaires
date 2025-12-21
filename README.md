@@ -43,12 +43,14 @@ L’objectif principal est de garantir :
 *Vue administrateur avec tableau d'activité, alertes et statut des services*
 
 ### **Éléments d'Interface Détachés**
+
 <div align="center">
 
 | Barre de Navigation | Statistiques Centrales | Tableau des Transactions |
 |---------------------|------------------------|--------------------------|
 | ![Navigation](screenshots/Barre_Latérale_Navigation_Principale.png) | ![Statistiques](screenshots/Dashboard_Statistiques_Vue_Centrale.png) | ![Transactions](screenshots/Tableau_Activité_Récente.png) |
 | *Menu principal avec profil utilisateur* | *KPIs financiers et graphiques* | *Historique des opérations bancaires* |
+
 
 | Panneau d'Actions | Monitoring Backend |
 |-------------------|-------------------|
