@@ -67,54 +67,21 @@ L’objectif principal est de garantir :
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>Vue d'Ensemble</strong></td>
-      <td align="center"><strong>Dashboard Administrateur</strong></td>
+      <td align="center"><strong>Vue d'Ensemble</strong><br><img src="screenshots/dashboard-overview.png" width="300" height="200" alt="Dashboard BankDesk" style="object-fit: cover;"></td>
+      <td align="center"><strong>Dashboard Administrateur</strong><br><img src="screenshots/dashboard2.png" width="300" height="200" alt="Dashboard détaillé" style="object-fit: cover;"></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard-overview.png" width="400" alt="Dashboard BankDesk"></td>
-      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard2.png" width="400" alt="Dashboard détaillé"></td>
+      <td align="center"><strong>Barre de Navigation</strong><br><img src="screenshots/sidebar-navigation.png" width="300" height="150" alt="Navigation principale" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
+      <td align="center"><strong>Statistiques Centrales</strong><br><img src="screenshots/financial-stats.png" width="300" height="150" alt="Statistiques financières" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
     </tr>
     <tr>
-      <td align="center"><strong>Barre de Navigation</strong></td>
-      <td align="center"><strong>Statistiques Centrales</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/sidebar-navigation.png" width="400" alt="Navigation principale"></td>
-      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/financial-stats.png" width="400" alt="Statistiques financières"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Tableau des Transactions</strong></td>
-      <td align="center"><strong>Panneau d'Actions</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/recent-activity.png" width="400" alt="Activité récente"></td>
-      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/quick-actions.png" width="400" alt="Actions rapides"></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Monitoring Backend</strong></td>
-      <td align="center"><strong>Architecture Système</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/backend-status.png" width="400" alt="État des services"></td>
-      <td><div style="width:400px; height:300px; background:#f5f5f5; display:flex; align-items:center; justify-content:center; border-radius:8px; border:1px dashed #ccc;"><span style="color:#666;">Diagramme d'architecture<br>(à ajouter)<img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/backend-status.png" width="400" alt="État des services"> </span></div></td>
+      <td align="center"><strong>Tableau des Transactions</strong><br><img src="screenshots/recent-activity.png" width="300" height="150" alt="Activité récente" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
+      <td align="center"><strong>Panneau d'Actions</strong><br><img src="screenshots/quick-actions.png" width="300" height="150" alt="Actions rapides" style="object-fit: contain; background: #f5f5f5; padding: 5px;"></td>
     </tr>
   </table>
 </div>
 
 ---
-<div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
-    <div style="text-align: center;">
-      <div style="font-weight: bold; margin-bottom: 8px;">Dashboard</div>
-      <img src="screenshots/dashboard-overview.png" width="100%" style="max-height: 150px; object-fit: contain; background: #f8f9fa; border-radius: 5px;">
-    </div>
-    <div style="text-align: center;">
-      <div style="font-weight: bold; margin-bottom: 8px;">Navigation</div>
-      <img src="screenshots/sidebar-navigation.png" width="100%" style="max-height: 150px; object-fit: contain; background: #f8f9fa; border-radius: 5px;">
-    </div>
-    <!-- Ajoutez d'autres divs de la même manière -->
-  </div>
-</div>
 ---
 
 ## ✨ Fonctionnalités principales
