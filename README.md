@@ -25,11 +25,7 @@
 
 <div align="center" style="background: 
     linear-gradient(rgba(26, 35, 126, 0.9), rgba(26, 35, 126, 0.9)),
-    url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><path fill="%230d47a1" fill-opacity="0.1" d="M0,0 L100,0 L100,100 L0,100 Z M20,20 L80,20 L80,80 L20,80 Z"/></svg>');
-    color: white; 
-    padding: 3rem 1rem; 
-    border-radius: 8px;
-    margin: 2rem 0;">
+    url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><path fill="%230d47a1" fill-opacity="0.1" d="M0,0 L100,0 L100,100 L0,100 Z M20,20 L80,20 L80,80 L20,80 Z"/></svg>'); color: white; padding: 3rem 1rem; border-radius: 8px;    margin: 2rem 0;">
 
 # 🏦 BankDesk  🎨 Option 3 : Bannière avec pattern
 
