@@ -82,6 +82,64 @@ L’objectif principal est de garantir :
 </div>
 
 ---
+
+
+---
+## 🎨 **Démonstration de l'Interface**  (2x3)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Vue d'Ensemble</strong><br><img src="screenshots/dashboard-overview.png" width="280" height="180" alt="Dashboard" style="object-fit: cover; border-radius: 5px;"></td>
+      <td align="center"><strong>Dashboard Admin</strong><br><img src="screenshots/dashboard2.png" width="280" height="180" alt="Dashboard Admin" style="object-fit: cover; border-radius: 5px;"></td>
+      <td align="center"><strong>Navigation</strong><br><img src="screenshots/sidebar-navigation.png" width="280" height="180" alt="Navigation" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Statistiques</strong><br><img src="screenshots/financial-stats.png" width="280" height="180" alt="Statistiques" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+      <td align="center"><strong>Transactions</strong><br><img src="screenshots/recent-activity.png" width="280" height="180" alt="Transactions" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+      <td align="center"><strong>Monitoring</strong><br><img src="screenshots/backend-status.png" width="280" height="180" alt="Monitoring" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+    </tr>
+  </table>
+</div>
+
+---
+---
+## 🎨 **Aperçu de l'Interface** (3x2) 
+
+<div align="center">
+  <table style="border-spacing: 10px;">
+    <tr>
+      <td align="center" style="padding: 5px;">
+        <div style="font-size: 0.9em; margin-bottom: 5px; font-weight: bold;">Dashboard</div>
+        <img src="screenshots/dashboard-overview.png" width="250" height="140" alt="Dashboard" style="object-fit: cover; border: 1px solid #ddd;">
+      </td>
+      <td align="center" style="padding: 5px;">
+        <div style="font-size: 0.9em; margin-bottom: 5px; font-weight: bold;">Navigation</div>
+        <img src="screenshots/sidebar-navigation.png" width="250" height="140" alt="Navigation" style="object-fit: contain; background: #f5f5f5;">
+      </td>
+      <td align="center" style="padding: 5px;">
+        <div style="font-size: 0.9em; margin-bottom: 5px; font-weight: bold;">Statistiques</div>
+        <img src="screenshots/financial-stats.png" width="250" height="140" alt="Statistiques" style="object-fit: contain; background: #f5f5f5;">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 5px;">
+        <div style="font-size: 0.9em; margin-bottom: 5px; font-weight: bold;">Transactions</div>
+        <img src="screenshots/recent-activity.png" width="250" height="140" alt="Transactions" style="object-fit: contain; background: #f5f5f5;">
+      </td>
+      <td align="center" style="padding: 5px;">
+        <div style="font-size: 0.9em; margin-bottom: 5px; font-weight: bold;">Actions</div>
+        <img src="screenshots/quick-actions.png" width="250" height="140" alt="Actions" style="object-fit: contain; background: #f5f5f5;">
+      </td>
+      <td align="center" style="padding: 5px;">
+        <div style="font-size: 0.9em; margin-bottom: 5px; font-weight: bold;">Backend</div>
+        <img src="screenshots/backend-status.png" width="250" height="140" alt="Backend" style="object-fit: contain; background: #f5f5f5;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 ---
 
 ## ✨ Fonctionnalités principales
