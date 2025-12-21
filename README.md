@@ -36,14 +36,14 @@ L’objectif principal est de garantir :
   <table>
     <tr>
       <td align="center"><strong>Vue d'Ensemble</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard-overview.png" width="280" height="180" alt="Dashboard" style="object-fit: cover; border-radius: 5px;"></td>
-      <td align="center"><strong>Dashboard Admin</strong><br><img src="screenshots/dashboard2.png" width="280" height="180" alt="Dashboard Admin" style="object-fit: cover; border-radius: 5px;"></td>
-      <td align="center"><strong>Barre de Navigation<</strong><br><img src="screenshots/sidebar-navigation.png" width="280" height="180" alt="Barre de Navigation<" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+      <td align="center"><strong>Dashboard Admin</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard2.png" width="280" height="180" alt="Dashboard Admin" style="object-fit: cover; border-radius: 5px;"></td>
+      <td align="center"><strong>Barre de Navigation<</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/sidebar-navigation.png" width="280" height="180" alt="Barre de Navigation<" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+        <td align="center"><strong>Statistiques</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/financial-stats.png" width="280" height="180" alt="Statistiques" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
     </tr>
     <tr>
-      <td align="center"><strong>Statistiques</strong><br><img src="screenshots/financial-stats.png" width="280" height="180" alt="Statistiques" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
-      <td align="center"><strong>Transactions</strong><br><img src="screenshots/recent-activity.png" width="280" height="180" alt="Transactions" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
-      <td align="center"><strong>Panneau d'Actions</strong><br><img src="screenshots/quick-actions.png" width="280" height="180" alt="Panneau d'Actions" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
-      <td align="center"><strong>Monitoring</strong><br><img src="screenshots/backend-status.png" width="280" height="180" alt="Monitoring" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+      <td align="center"><strong>Transactions</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/recent-activity.png" width="280" height="180" alt="Transactions" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+      <td align="center"><strong>Panneau d'Actions</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/quick-actions.png" width="280" height="180" alt="Panneau d'Actions" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
+      <td align="center"><strong>Monitoring</strong><br><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/backend-status.png" width="280" height="180" alt="Monitoring" style="object-fit: contain; background: #f8f9fa; border-radius: 5px;"></td>
    </tr>
   </table>
 </div>
