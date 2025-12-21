@@ -57,7 +57,7 @@
 - [✨ Fonctionnalités Principales](#-fonctionnalités-principales)
 
 ### 🔧 **Architecture & Développement**
-- [🏗️ Architecture & Concepts Techniques](#️-architecture-&-concepts-techniques)
+- [🏗️ Architecture Concepts Techniques](#️-architecture-concepts-techniques)
 - [🛠️ Technologies & Outils](#️-technologies--outils)
 - [📦 Installation](#-installation)
 - [▶️ Utilisation](#️-utilisation)
@@ -126,7 +126,7 @@ L’objectif principal est de garantir :
 
 ---
 
-## 🧠 Architecture & concepts techniques
+## 🧠 Architecture Concepts Techniques
 
 - Architecture **distribuée**
 - Séparation **Frontend / Backend**
