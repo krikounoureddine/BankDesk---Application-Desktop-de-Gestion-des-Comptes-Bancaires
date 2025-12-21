@@ -35,7 +35,7 @@ L’objectif principal est de garantir :
 ## 🎨 **Maquettes d'Interface**
 
 ### **Vue d'Ensemble du Dashboard**
-![Dashboard complet BankDesk](screenshots/Vue_d'Ensemble_du_Dashboard.png)
+![Dashboard complet BankDesk](screenshots/dashboard-overview.png)
 *Interface principale avec sidebar, statistiques financières et monitoring système*
 
 ### **Dashboard Administrateur Détail**
@@ -47,15 +47,13 @@ L’objectif principal est de garantir :
 <div align="center">
 
 | Barre de Navigation | Statistiques Centrales | Tableau des Transactions |
-| :-----------------: | :--------------------: | :----------------------: |
-| ![Navigation](screenshots/Barre_Latérale_Navigation_Principale.png) | ![Statistiques](screenshots/Dashboard_Statistiques_Vue_Centrale.png) | ![Transactions](screenshots/Tableau_Activité_Récente.png) |
+|---------------------|------------------------|--------------------------|
+| ![Navigation](screenshots/sidebar-navigation.png) | ![Statistiques](screenshots/financial-stats.png) | ![Transactions](screenshots/recent-activity.png) |
 | *Menu principal avec profil utilisateur* | *KPIs financiers et graphiques* | *Historique des opérations bancaires* |
 
-<br>
-
 | Panneau d'Actions | Monitoring Backend |
-| :---------------: | :----------------: |
-| ![Actions rapides](screenshots/Panneau_Actions_Rapides_&_Alertes.png) | ![Services backend](screenshots/Etat_des_Services_Backend.png) |
+|-------------------|-------------------|
+| ![Actions rapides](screenshots/quick-actions.png) | ![Services backend](screenshots/backend-status.png) |
 | *Actions fréquentes et alertes système* | *État des services Java EE et SOAP* |
 
 </div>
