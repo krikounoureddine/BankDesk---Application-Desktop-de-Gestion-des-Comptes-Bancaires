@@ -40,16 +40,16 @@ L’objectif principal est de garantir :
     <td align="center"><strong>Gestion des Comptes</strong></td> 
   </tr>
   <tr> 
-    <td><img src="screenshots/dashboard.png" width="400" alt="Dashboard BankDesk"></td>
-    <td><img src="screenshots/account-management.png" width="400" alt="Gestion des comptes"></td> 
+    <td><img src="screenshots/Vue_d'Ensemble_du_Dashboard.png" width="400" alt="Dashboard BankDesk"></td>
+    <td><img src="screenshots/Barre_Latérale_Navigation_Principale.png" width="400" alt="Gestion des comptes"></td> 
 </tr>
 <tr> 
     <td align="center"><strong>Opérations Bancaires</strong></td> 
     <td align="center"><strong>Architecture SOA</strong></td> 
   </tr> 
   <tr> 
-    <td><img src="screenshots/transactions.png" width="400" alt="Opérations financières"></td> 
-    <td><img src="screenshots/soa-architecture.png" width="400" alt="Architecture SOA"></td> 
+    <td><img src="screenshots/Tableau_Activité_Récente.png" width="400" alt="Opérations financières"></td> 
+    <td><img src="screenshots/Etat_des_Services_Backend.png" width="400" alt="Architecture SOA"></td> 
   </tr> 
  </table> 
 </div>
@@ -191,7 +191,7 @@ Vous êtes libre de l’utiliser, le modifier et le distribuer.
 
 | Barre de Navigation | Statistiques Centrales | Tableau des Transactions |
 |---------------------|------------------------|--------------------------|
-| ![Navigation](Barre_Latérale_Navigation_Principale.png) | ![Statistiques](Dashboard_Statistiques_Vue_Centrale.png) | ![Transactions](screenshots/Tableau_Activité_Récente.png) |
+| ![Navigation](screenshots/Barre_Latérale_Navigation_Principale.png) | ![Statistiques](screenshots/Dashboard_Statistiques_Vue_Centrale.png) | ![Transactions](screenshots/Tableau_Activité_Récente.png) |
 | *Menu principal avec profil utilisateur* | *KPIs financiers et graphiques* | *Historique des opérations bancaires* |
 
 | Panneau d'Actions | Monitoring Backend |
