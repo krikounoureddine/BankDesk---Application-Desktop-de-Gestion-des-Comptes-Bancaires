@@ -1,14 +1,16 @@
 <!-- README.md - BankDesk -->
 <body style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin: 0; padding: 20px;">
 
+
 <div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
 
 <h1 style="margin-top: 2rem;">🏦 BankDesk</h1>
 <p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires 
 🎨 Option 5 :  Arrière-plan complet de la page
 </p>
-
 </div>
+
+<br>
 
 <div align="center" style="
     background: linear-gradient(90deg, #0a192f 0%, #1a237e 100%);
@@ -25,12 +27,15 @@
     <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
 </div>
 
+
 <h1 style="margin-top: 2rem;">🏦 BankDesk</h1>
 <p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires 
 🎨 Option 6 : En-tête avec badges intégrés
 </p>
 
 </div>
+
+<br>
 
 <p align="center">
   <h1 align="center">🏦 BankDesk</h1>
@@ -43,6 +48,7 @@
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Desktop%20%7C%20Server-green?style=for-the-badge" />
 </p>
 
+</body>
 ---
 
 > **BankDesk** est une application **desktop Java** connectée à un **backend Java EE** via des **Web Services**.  
@@ -228,4 +234,3 @@ Vous êtes libre de l’utiliser, le modifier et le distribuer.
 
 > ⭐ *N’hésitez pas à laisser une étoile si le projet vous plaît !*
 
-</body>
