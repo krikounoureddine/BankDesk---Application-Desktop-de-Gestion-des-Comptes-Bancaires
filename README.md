@@ -96,7 +96,7 @@ L’objectif principal est de garantir :
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/backend-status.png" width="400" alt="État des services"></td>
-      <td><div style="width:400px; height:300px; background:#f5f5f5; display:flex; align-items:center; justify-content:center; border-radius:8px; border:1px dashed #ccc;"><span style="color:#666;">Diagramme d'architecture<br>(à ajouter)</span></div></td>
+      <td><div style="width:400px; height:300px; background:#f5f5f5; display:flex; align-items:center; justify-content:center; border-radius:8px; border:1px dashed #ccc;"><span style="color:#666;">Diagramme d'architecture<br>(à ajouter)<img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/backend-status.png" width="400" alt="État des services"> </span></div></td>
     </tr>
   </table>
 </div>
