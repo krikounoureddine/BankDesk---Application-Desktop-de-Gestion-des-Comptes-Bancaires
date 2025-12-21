@@ -1,69 +1,14 @@
 <!-- README.md - BankDesk -->
----
+<body style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin: 0; padding: 20px;">
 
-<div align="center" style="background: linear-gradient(135deg, #0a192f 0%, #1a237e 50%, #0d47a1 100%); padding: 2rem; border-radius: 10px; margin: 2rem 0;">
+<div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
 
-# 🏦 BankDesk  Option 1 : Gradient professionnel 
-
-> **Application Desktop de Gestion des Comptes Bancaires**  
-> Java Desktop ↔ Java EE (SOAP) via Middleware
+# 🏦 BankDesk
+Contenu complet de votre README ici...
 
 </div>
 
----
-
-<div align="center" style="background-color: #f8f9fa; border-left: 5px solid #1a237e; border-right: 5px solid #1a237e; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-# 🏦 BankDesk 🎨 Option 2 : Fond avec bordures
-
-**Application Desktop de Gestion des Comptes Bancaires**  
-*Architecture distribuée Java EE avec Middleware*
-
-</div>
-
----
-
-<div align="center" style="background: 
-    linear-gradient(rgba(26, 35, 126, 0.9), rgba(26, 35, 126, 0.9)),
-    url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><path fill="%230d47a1" fill-opacity="0.1" d="M0,0 L100,0 L100,100 L0,100 Z M20,20 L80,20 L80,80 L20,80 Z"/></svg>'); color: white; padding: 3rem 1rem; border-radius: 8px;    margin: 2rem 0;">
-
-# 🏦 BankDesk  🎨 Option 3 : Bannière avec pattern
-
-### Application Desktop de Gestion Bancaire
-**Java EE • SOAP Web Services • Architecture SOA**
-
-</div>
-
----
-#🎨 Option 4 : Sections avec fonds alternés
-
-<!-- Section 1 - Fond clair -->
-<div style="background-color: #ffffff; padding: 2rem; margin: 1rem 0; border-radius: 8px; border: 1px solid #e1e4e8;">
-
-## 📋 Présentation du Projet
-Contenu de votre section ici...
-
-</div>
-
-<!-- Section 2 - Fond bleu clair -->
-<div style="background-color: #e3f2fd; padding: 2rem; margin: 1rem 0; border-radius: 8px;">
-
-## 🎨 Maquettes d'Interface
-Contenu de votre section ici...
-
-</div>
-
-<!-- Section 3 - Fond gris -->
-<div style="background-color: #f5f5f5; padding: 2rem; margin: 1rem 0; border-radius: 8px;">
-
-## ✨ Fonctionnalités
-Contenu de votre section ici...
-
-</div>
-
----
-
----
+</body>
 
 <p align="center">
   <h1 align="center">🏦 BankDesk</h1>
