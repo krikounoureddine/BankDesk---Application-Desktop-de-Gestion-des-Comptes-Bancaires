@@ -3,10 +3,34 @@
 
 <div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
 
-# 🏦 BankDesk
+🏦 BankDesk
+Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware
 
 </div>
 </body>
+
+<div align="center" style="
+    background: linear-gradient(90deg, #0a192f 0%, #1a237e 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 10px 10px 0 0;
+    position: relative;
+    overflow: hidden;
+">
+
+<div style="position: absolute; top: 0; right: 0; padding: 1rem;">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Java EE" src="https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+</div>
+
+<h1 style="margin-top: 2rem;">🏦 BankDesk</h1>
+<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires 
+🎨 Option 6 : En-tête avec badges intégrés
+</p>
+
+</div>
+
 
 <p align="center">
   <h1 align="center">🏦 BankDesk</h1>
@@ -26,6 +50,32 @@ Elle permet la gestion complète des comptes bancaires, des opérations financi�
 
 ---
 
+<div style="
+    background-color: #f8f9fa;
+    border-left: 4px solid #1a237e;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 8px 8px 0;
+">
+
+## 📖 Table des Matières
+
+### 📚 Navigation Principale
+- [📋 Présentation du Projet](#-présentation-du-projet)
+- [🎨 Maquettes d'Interface](#-Démonstration-de-l'Interface)
+- [✨ Fonctionnalités](#-Fonctionnalités-principales)
+- [🏗️ Architecture](#️-Architecture-&-concepts-techniques)
+
+### 🔧 Développement
+- [🛠️ Technologies](#️-technologies)
+- [📦 Installation](#-installation)
+- [▶️ Utilisation](#️-utilisation)
+- [🤝 Contribution](#-contribution)
+
+</div>
+
+---
+
 ## 🚀 Présentation du projet
 
 **BankDesk** a été conçu pour illustrer la mise en œuvre d’une **application client–serveur robuste**, reposant sur un **middleware** assurant la communication entre :
@@ -37,6 +87,7 @@ L’objectif principal est de garantir :
 - la **cohérence des données**
 - la **sécurité des opérations**
 - la **modularité et la scalabilité** du système bancaire
+  
 ---
 ## 🎨 **Démonstration de l'Interface** 
 
