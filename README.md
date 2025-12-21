@@ -47,14 +47,14 @@ L’objectif principal est de garantir :
 <div align="center">
 
 | Barre de Navigation | Statistiques Centrales | Tableau des Transactions |
-|---------------------|------------------------|--------------------------|
-| ![Navigation](screenshots/sidebar-navigation.png) | ![Statistiques](screenshots/financial-stats.png) | ![Transactions](screenshots/recent-activity.png) |
+| :-----------------: | :--------------------: | :----------------------: |
+| ![Navigation](https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/sidebar-navigation.png) | ![Statistiques](screenshots/financial-stats.png) | ![Transactions](screenshots/recent-activity.png) |
 | *Menu principal avec profil utilisateur* | *KPIs financiers et graphiques* | *Historique des opérations bancaires* |
 
 <br>
 
 | Panneau d'Actions | Monitoring Backend |
-|-------------------|-------------------|
+| :---------------: | :----------------: |
 | ![Actions rapides](screenshots/quick-actions.png) | ![Services backend](screenshots/backend-status.png) |
 | *Actions fréquentes et alertes système* | *État des services Java EE et SOAP* |
 
