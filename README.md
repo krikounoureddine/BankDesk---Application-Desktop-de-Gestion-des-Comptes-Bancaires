@@ -62,6 +62,49 @@ L’objectif principal est de garantir :
 
 ---
 
+## 🎨 **Démonstration de l'Interface**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Vue d'Ensemble</strong></td>
+      <td align="center"><strong>Dashboard Administrateur</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard-overview.png" width="400" alt="Dashboard BankDesk"></td>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/dashboard2.png" width="400" alt="Dashboard détaillé"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Barre de Navigation</strong></td>
+      <td align="center"><strong>Statistiques Centrales</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/sidebar-navigation.png" width="400" alt="Navigation principale"></td>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/financial-stats.png" width="400" alt="Statistiques financières"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Tableau des Transactions</strong></td>
+      <td align="center"><strong>Panneau d'Actions</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/recent-activity.png" width="400" alt="Activité récente"></td>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/quick-actions.png" width="400" alt="Actions rapides"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Monitoring Backend</strong></td>
+      <td align="center"><strong>Architecture Système</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/BankDesk---Application-Desktop-de-Gestion-des-Comptes-Bancaires/main/screenshots/backend-status.png" width="400" alt="État des services"></td>
+      <td><div style="width:400px; height:300px; background:#f5f5f5; display:flex; align-items:center; justify-content:center; border-radius:8px; border:1px dashed #ccc;"><span style="color:#666;">Diagramme d'architecture<br>(à ajouter)</span></div></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+---
+
 ## ✨ Fonctionnalités principales
 
 ### 👤 Gestion des utilisateurs
