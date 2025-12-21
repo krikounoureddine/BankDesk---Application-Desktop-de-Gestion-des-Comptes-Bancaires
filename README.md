@@ -31,27 +31,30 @@ L’objectif principal est de garantir :
 - la **modularité et la scalabilité** du système bancaire
 
 ---
-##🎯 Démonstration du Système
 
-<div align="center"> 
-  <table> 
-  <tr> 
-    <td align="center"><strong>Interface Dashboard</strong></td> 
-    <td align="center"><strong>Gestion des Comptes</strong></td> 
-  </tr>
-  <tr> 
-    <td><img src="screenshots/Vue_d'Ensemble_du_Dashboard.png" width="400" alt="Dashboard BankDesk"></td>
-    <td><img src="screenshots/Barre_Latérale_Navigation_Principale.png" width="400" alt="Gestion des comptes"></td> 
-</tr>
-<tr> 
-    <td align="center"><strong>Opérations Bancaires</strong></td> 
-    <td align="center"><strong>Architecture SOA</strong></td> 
-  </tr> 
-  <tr> 
-    <td><img src="screenshots/Tableau_Activité_Récente.png" width="400" alt="Opérations financières"></td> 
-    <td><img src="screenshots/Etat_des_Services_Backend.png" width="400" alt="Architecture SOA"></td> 
-  </tr> 
- </table> 
+## 🎨 **Maquettes d'Interface**
+
+### **Vue d'Ensemble du Dashboard**
+![Dashboard complet BankDesk](screenshots/Vue_d'Ensemble_du_Dashboard.png)
+*Interface principale avec sidebar, statistiques financières et monitoring système*
+
+### **Dashboard Administrateur Détail**
+![Dashboard détaillé](screenshots/dashboard2.png)
+*Vue administrateur avec tableau d'activité, alertes et statut des services*
+
+### **Éléments d'Interface Détachés**
+<div align="center">
+
+| Barre de Navigation | Statistiques Centrales | Tableau des Transactions |
+|---------------------|------------------------|--------------------------|
+| ![Navigation](screenshots/Barre_Latérale_Navigation_Principale.png) | ![Statistiques](screenshots/Dashboard_Statistiques_Vue_Centrale.png) | ![Transactions](screenshots/Tableau_Activité_Récente.png) |
+| *Menu principal avec profil utilisateur* | *KPIs financiers et graphiques* | *Historique des opérations bancaires* |
+
+| Panneau d'Actions | Monitoring Backend |
+|-------------------|-------------------|
+| ![Actions rapides](screenshots/Panneau_Actions_Rapides_&_Alertes.png) | ![Services backend](screenshots/Etat_des_Services_Backend.png) |
+| *Actions fréquentes et alertes système* | *État des services Java EE et SOAP* |
+
 </div>
 
 ---
@@ -175,28 +178,3 @@ Vous êtes libre de l’utiliser, le modifier et le distribuer.
 ✔ Projet orienté **backend, services et systèmes d’information**
 
 > ⭐ *N’hésitez pas à laisser une étoile si le projet vous plaît !*
-
-## 🎨 **Maquettes d'Interface**
-
-### **Vue d'Ensemble du Dashboard**
-![Dashboard complet BankDesk](screenshots/Vue_d'Ensemble_du_Dashboard.png)
-*Interface principale avec sidebar, statistiques financières et monitoring système*
-
-### **Dashboard Administrateur Détail**
-![Dashboard détaillé](screenshots/dashboard2.png)
-*Vue administrateur avec tableau d'activité, alertes et statut des services*
-
-### **Éléments d'Interface Détachés**
-<div align="center">
-
-| Barre de Navigation | Statistiques Centrales | Tableau des Transactions |
-|---------------------|------------------------|--------------------------|
-| ![Navigation](screenshots/Barre_Latérale_Navigation_Principale.png) | ![Statistiques](screenshots/Dashboard_Statistiques_Vue_Centrale.png) | ![Transactions](screenshots/Tableau_Activité_Récente.png) |
-| *Menu principal avec profil utilisateur* | *KPIs financiers et graphiques* | *Historique des opérations bancaires* |
-
-| Panneau d'Actions | Monitoring Backend |
-|-------------------|-------------------|
-| ![Actions rapides](screenshots/Panneau_Actions_Rapides_&_Alertes.png) | ![Services backend](screenshots/Etat_des_Services_Backend.png) |
-| *Actions fréquentes et alertes système* | *État des services Java EE et SOAP* |
-
-</div>
