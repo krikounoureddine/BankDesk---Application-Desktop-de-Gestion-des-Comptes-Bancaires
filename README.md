@@ -11,6 +11,7 @@
 </div>
 
 ---
+
 <div align="center" style="background-color: #f8f9fa; border-left: 5px solid #1a237e; border-right: 5px solid #1a237e; padding: 1.5rem; margin: 2rem 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 # 🏦 BankDesk 🎨 Option 2 : Fond avec bordures
@@ -19,7 +20,9 @@
 *Architecture distribuée Java EE avec Middleware*
 
 </div>
+
 ---
+
 <div align="center" style="background: 
     linear-gradient(rgba(26, 35, 126, 0.9), rgba(26, 35, 126, 0.9)),
     url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><path fill="%230d47a1" fill-opacity="0.1" d="M0,0 L100,0 L100,100 L0,100 Z M20,20 L80,20 L80,80 L20,80 Z"/></svg>');
@@ -34,7 +37,10 @@
 **Java EE • SOAP Web Services • Architecture SOA**
 
 </div>
+
 ---
+#🎨 Option 4 : Sections avec fonds alternés
+
 <!-- Section 1 - Fond clair -->
 <div style="background-color: #ffffff; padding: 2rem; margin: 1rem 0; border-radius: 8px; border: 1px solid #e1e4e8;">
 
@@ -58,8 +64,11 @@ Contenu de votre section ici...
 Contenu de votre section ici...
 
 </div>
+
 ---
+
 ---
+
 <p align="center">
   <h1 align="center">🏦 BankDesk</h1>
   <p align="center"><em>Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</em></p>
