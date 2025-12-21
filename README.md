@@ -1,6 +1,14 @@
 <!-- README.md - BankDesk -->
 <body style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin: 0; padding: 20px;">
-</body>
+
+<div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+
+<h1 style="margin-top: 2rem;">🏦 BankDesk</h1>
+<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires 
+🎨 Option 5 :  Arrière-plan complet de la page
+</p>
+
+</div>
 
 <div align="center" style="
     background: linear-gradient(90deg, #0a192f 0%, #1a237e 100%);
@@ -23,7 +31,6 @@
 </p>
 
 </div>
-
 
 <p align="center">
   <h1 align="center">🏦 BankDesk</h1>
@@ -220,3 +227,5 @@ Vous êtes libre de l’utiliser, le modifier et le distribuer.
 ✔ Projet orienté **backend, services et systèmes d’information**
 
 > ⭐ *N’hésitez pas à laisser une étoile si le projet vous plaît !*
+
+</body>
