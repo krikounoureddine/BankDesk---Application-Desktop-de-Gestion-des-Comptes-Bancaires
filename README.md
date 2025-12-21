@@ -18,6 +18,13 @@
     overflow: hidden;
 ">
 
+<div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+
+<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</p>
+</div>
+
+<br>
+
 <div style="position: absolute; top: 0; right: 0; padding: 1rem;">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img alt="Java EE" src="https://img.shields.io/badge/Java_EE-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -28,8 +35,7 @@
 
 
 <h1 style="margin-top: 2rem;">🏦 BankDesk</h1>
-<p style="font-size: 1.2rem; opacity: 0.9;">> **BankDesk** est une application **desktop Java** connectée à un **backend Java EE** via des **Web Services**.  
-Elle permet la gestion complète des comptes bancaires, des opérations financières et des utilisateurs, au sein d’une **architecture distribuée orientée services (SOA)**.
+<p style="font-size: 1.2rem; opacity: 0.9;"> BankDesk est une application desktop Java connectée à un backend Java EE via des Web Services. Elle permet la gestion complète des comptes bancaires, des opérations financières et des utilisateurs, au sein d’une architecture distribuée orientée services (SOA).
 </p>
 
 </div>
@@ -51,7 +57,7 @@ Elle permet la gestion complète des comptes bancaires, des opérations financi�
 
 ### 📚 Navigation Principale
 - [📋 Présentation du Projet](#-présentation-du-projet)
-- [🎨 Maquettes d'Interface](#-Démonstration-de-l'Interface)
+- [🎨 Démonstration de l'Interface](#-Démonstration-de-l'Interface)
 - [✨ Fonctionnalités](#-Fonctionnalités-principales)
 - [🏗️ Architecture](#️-Architecture-&-concepts-techniques)
 
@@ -78,7 +84,7 @@ L’objectif principal est de garantir :
 - la **modularité et la scalabilité** du système bancaire
   
 ---
-## 🎨 **Démonstration de l'Interface** 
+## 🎨 Démonstration de l'Interface
 
 <div align="center">
   <table>
