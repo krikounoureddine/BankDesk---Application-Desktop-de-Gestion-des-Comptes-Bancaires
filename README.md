@@ -1,12 +1,5 @@
 <!-- README.md - BankDesk -->
 <body style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin: 0; padding: 20px;">
-
-<div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-
-🏦 BankDesk
-Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware
-
-</div>
 </body>
 
 <div align="center" style="
