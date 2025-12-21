@@ -6,9 +6,7 @@
 # 🏦 BankDesk
 Contenu complet de votre README ici...
 
-</div>
 
-</body>
 
 <p align="center">
   <h1 align="center">🏦 BankDesk</h1>
@@ -178,3 +176,7 @@ Vous êtes libre de l’utiliser, le modifier et le distribuer.
 ✔ Projet orienté **backend, services et systèmes d’information**
 
 > ⭐ *N’hésitez pas à laisser une étoile si le projet vous plaît !*
+
+</div>
+
+</body>
