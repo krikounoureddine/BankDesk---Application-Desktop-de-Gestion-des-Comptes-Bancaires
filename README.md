@@ -2,6 +2,17 @@
 <body style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin: 0; padding: 20px;">
 
 
+<div style="
+    background-color: #f8f9fa;
+    border-left: 4px solid #1a237e;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 8px 8px 0;">
+
+<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</p>
+
+</div>
+
 <div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
 
 <p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</p>
@@ -39,15 +50,6 @@
 </body>
 
 ---
-
-<div style="
-    background-color: #f8f9fa;
-    border-left: 4px solid #1a237e;
-    padding: 1.5rem;
-    margin: 2rem 0;
-    border-radius: 0 8px 8px 0;">
-
-</div>
 
 ## 📖 Table des Matières
 
