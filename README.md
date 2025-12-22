@@ -12,12 +12,11 @@
 <p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</p>
 
 </div>
-
+<!--
 <div style="max-width: 1200px; margin: 0 auto; background: white; padding: 2rem; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
-
 <p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop de Gestion des Comptes Bancaires — Java Desktop ↔ Java EE (SOAP) via Middleware</p>
 </div>
-
+-->
 <br>
 
 <div align="center" style="
